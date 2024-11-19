@@ -1,0 +1,68 @@
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# Introdução
+
+Bem-vindo ao **Curso de Python para Análise de Dados**! Este curso foi cuidadosamente desenvolvido para introduzir você às ferramentas e técnicas fundamentais necessárias para trabalhar com dados de forma eficiente e profissional. Python é uma das linguagens mais utilizadas no mundo da ciência de dados, graças à sua simplicidade, flexibilidade e poderosas bibliotecas.
+
+## Objetivo do Curso
+O objetivo principal deste curso é capacitar você a realizar análises de dados desde a coleta, manipulação e visualização até a exportação de relatórios. Ao final do curso, você será capaz de:
+- Manipular grandes conjuntos de dados com eficiência.
+- Criar visualizações impactantes que auxiliam na tomada de decisões.
+- Aplicar técnicas exploratórias para compreender padrões e tendências nos dados.
+
+## Público-Alvo
+Este curso é voltado para:
+- Iniciantes do curso que desejam iniciar seus estudos em Python para Análise de Dados
+- Estudantes que procuram uma introdução sólida à ciência de dados.
+
+## Estrutura do Curso
+O curso está dividido em módulos que cobrem tópicos essenciais de forma progressiva:
+
+1. **Python Básico **
+   Aprenda os fundamentos da linguagem Python, incluindo sintaxe, estruturas de controle, manipulação de variáveis e funções.
+
+2. **Numpy**  
+   Descubra como manipular arrays numéricos e realizar cálculos matemáticos com eficiência.
+
+3. **Pandas**
+   Explore como carregar, manipular e analisar dados tabulares usando DataFrames e Series.
+
+4. **Matplotlib e Seaborn**
+   Domine as ferramentas de visualização de dados para criar gráficos informativos e visuais.
+
+5. **Relatório de Análise de Dados** 
+   Combine todas as ferramentas aprendidas para realizar análises exploratórias completas e gerar relatórios que apresentam insights valiosos.
+
+## Metodologia
+O curso combina teoria com prática, oferecendo:
+- **Aulas explicativas**: Conceitos apresentados de forma clara e objetiva.
+- **Exemplos práticos**: Demonstração de como aplicar as ferramentas e técnicas no mundo real.
+- **Exercícios e projetos**: Oportunidade de praticar e consolidar o aprendizado com desafios variados.
+
+## Pré-requisitos
+- Conhecimento básico em informática.
+- Nenhuma experiência prévia em programação é necessária, embora seja desejável.
+
+## Ferramentas Necessárias
+- Python 3.7 ou superior.
+- Jupyter Notebook (recomendado), [Programiz](https://www.programiz.com/python-programming/online-compiler/), [Google Colaboratory](https://colab.research.google.com/), [Jupyter Notebook Online](https://jupyter.org/try-jupyter/lab/) ou qualquer editor de código, como VSCode.
+- Instalação das bibliotecas: `numpy`, `pandas`, `matplotlib`, `seaborn`.
+
+---
+
+Esperamos que este curso seja uma jornada enriquecedora, ajudando você a adquirir habilidades práticas e teóricas para trabalhar com dados de forma confiante. Vamos começar!
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

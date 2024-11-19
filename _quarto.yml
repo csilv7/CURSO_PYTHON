@@ -1,0 +1,61 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Curso de Python"
+  reader-mode: true
+  subtitle: "Básico e Análise Exploratória de Dados"
+  #date: "`r Sys.Date()`"
+  author:
+    name: "Breno Cauã Rodrigues da Silva"
+    #orcid: 0000-0001-7262-3336
+    corresponding: true
+    affiliations:
+      - name: "Centro Acadêmico de Estatística"
+      - name: "Faculdade de Estatística"
+
+  page-footer:
+    left: |
+      Copyright: (**SILVA, B.C.R - 2024**)
+    right: |
+      Construído <a href="https://quarto.org/"> Pacote Quarto no R4.3</a>.
+  repo-url : https://github.com/csilv7/CURSO_PYTHON
+  repo-subdir: book
+  repo-branch: main
+  repo-actions: [edit, issue, source]
+  downloads: [pdf, docx]
+  sharing: [twitter, facebook]
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - basic.qmd
+
+comments:
+  hypothesis: true
+
+format:
+  pdf:
+    documentclass: book
+    number-sections: true
+    pdf-engine: xelatex
+    fontsize: 12pt
+    geometry: margin=2.5cm
+  html:
+    number-sections: true
+    df-print: paged
+    theme:
+      light: [blue,custom.scss]
+      dark:  [cyborg,custom.scss]
+    code-fold: true
+    code-tools: true
+    code-link: true
+    toc-title: Índice
+    toc-location: right
+  docx:
+    number-sections: true
+
+execute:
+  echo: true
+
+lang: pt
