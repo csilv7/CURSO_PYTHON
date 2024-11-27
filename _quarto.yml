@@ -9,7 +9,7 @@ book:
   #date: "`r Sys.Date()`"
   author:
     name: "Breno Cauã Rodrigues da Silva"
-    #orcid: 0000-0001-7262-3336
+    orcid: 0000-0001-7262-3336
     corresponding: true
     affiliations:
       - name: "Centro Acadêmico de Estatística"
